@@ -2,8 +2,8 @@
 # -*- coding: utf-8 -*- #
 from __future__ import unicode_literals
 
-AUTHOR = u'Owen'
-SITENAME = u'Owen Campbell'
+AUTHOR = u'Thomas'
+SITENAME = u'Thomas Campbell'
 SITEURL = 'http://localhost:8000'
 
 PATH = 'content'
@@ -24,15 +24,15 @@ TRANSLATION_FEED_ATOM = None
 #          ('You can modify those links in your config file', '#'),)
 
 SOCIAL = (
-    ('Google+', 'http://plus.google.com/+OwenCampbell1',
-        'fa fa-google-plus-square fa-fw fa-lg'),
-    ('Twitter', 'https://twitter.com/opcampbell',
-        'fa fa-twitter-square fa-fw fa-lg'),
-    ('LinkedIn', 'https://www.linkedin.com/in/owencampbell',
-        'fa fa-linkedin-square fa-fw fa-lg'),
-    ('BitBucket', 'http://bitbucket.org/meatballs',
-        'fa fa-bitbucket-square fa-fw fa-lg'),
-    ('GitHub', 'http://github.com/meatballs',
+    # ('Google+', 'http://plus.google.com/+OwenCampbell1',
+    #     'fa fa-google-plus-square fa-fw fa-lg'),
+    # ('Twitter', 'https://twitter.com/opcampbell',
+    #     'fa fa-twitter-square fa-fw fa-lg'),
+    # ('LinkedIn', 'https://www.linkedin.com/in/owencampbell',
+    #     'fa fa-linkedin-square fa-fw fa-lg'),
+    # ('BitBucket', 'http://bitbucket.org/meatballs',
+    #     'fa fa-bitbucket-square fa-fw fa-lg'),
+    ('GitHub', 'http://github.com/uglyfruitcake',
         'fa fa-github-square fa-fw fa-lg'),)
 
 DEFAULT_PAGINATION = 10
