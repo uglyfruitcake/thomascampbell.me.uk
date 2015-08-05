@@ -8,7 +8,7 @@ Status: draft
 Axelrod-Python
 --------------
 
-Axelrod-Python is a repository on Github dedicated to recreating Axelrod’s original tournaments in python. The repository can be viewed here.
+Axelrod-Python is a repository on Github dedicated to recreating Axelrod’s original tournaments in python. The repository can be viewed here: [https://github.com/Axelrod-Python/Axelrod](https://github.com/Axelrod-Python/Axelrod)
 
 The project is open source and so anyone can submit a strategy. Once the tournament is run, a boxplot is generated and displayed on the Readme of the repository so that everyone can see the winning strategies. As of June 2015 there were 66 strategies submitted to Axelrod-Python. The boxplot looked like this:
 
