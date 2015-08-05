@@ -7,10 +7,11 @@ SITENAME = u'Thomas Campbell'
 SITEURL = 'http://localhost:8000'
 
 PATH = 'content'
-
 TIMEZONE = 'Europe/London'
-
 DEFAULT_LANG = u'en_GB'
+
+STATIC_PATHS = ['images', 'extra/CNAME']
+EXTRA_PATH_METADATA = {'extra/CNAME': {'path': 'CNAME'}}
 
 # Feed generation is usually not desired when developing
 FEED_ALL_ATOM = None
