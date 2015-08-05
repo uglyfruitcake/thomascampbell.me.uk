@@ -12,6 +12,7 @@ Axelrod-Python is a repository on Github dedicated to recreating Axelrod’s ori
 
 The project is open source and so anyone can submit a strategy. Once the tournament is run, a boxplot is generated and displayed on the Readme of the repository so that everyone can see the winning strategies. As of June 2015 there were 66 strategies submitted to Axelrod-Python. The boxplot looked like this:
 
+<img src="/images/strategies_boxplot_june_2015.png" alt="Strategies boxplot from June 2015" style="width: 1000px;"/>
 
 Nice and Mean Strategies
 ------------------------
