@@ -2,7 +2,7 @@
 title: Hello World
 slug: hello-creole
 date: 2014-01-01
-status: published
+status: draft
 <</header>>
 
 Hello World
