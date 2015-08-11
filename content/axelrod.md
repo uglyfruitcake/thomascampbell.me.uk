@@ -21,7 +21,7 @@ of the repository so that everyone can see the winning strategies. As of June
 like this:
 
 <img src="/images/strategies_boxplot_june_2015.png" alt="Strategies boxplot from
-June 2015" style="width: 1000px;"/>
+June 2015" style="width: 500px;"/>
 
 ## Nice and Mean Strategies
 
