@@ -93,4 +93,4 @@ other strategy's.
 ## Double-Crosser
 
 <img src="/images/strategies_payoff_no_doublecrosser.png" alt="Strategies
-payoff" style="width: 800px;"/>
+payoff" style="width: 700px;"/>
