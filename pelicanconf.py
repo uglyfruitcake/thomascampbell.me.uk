@@ -44,4 +44,4 @@ RELATIVE_URLS = True
 PLUGIN_PATHS = ('plugins',)
 PLUGINS = ['creole_reader', 'render_math' ]
 
-THEME = 'themes/voidy-bootstrap/'
+THEME = 'themes/pelican-bootstrap3/'
