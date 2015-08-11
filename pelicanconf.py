@@ -32,7 +32,7 @@ SOCIAL = (
     #     'fa fa-linkedin-square fa-fw fa-lg'),
     # ('BitBucket', 'http://bitbucket.org/meatballs',
     #     'fa fa-bitbucket-square fa-fw fa-lg'),
-    ('GitHub', 'http://github.com/uglyfruitcake')
+    ('GitHub', 'http://github.com/uglyfruitcake'))
 
 DEFAULT_PAGINATION = 10
 
