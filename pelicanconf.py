@@ -26,7 +26,7 @@ TRANSLATION_FEED_ATOM = None
 
 SOCIAL = (
     ('Google+', 'https://plus.google.com/u/0/115145418718867457256/posts',
-    #     'fa fa-google-plus-square fa-fw fa-lg'),
+        'fa fa-google-plus-square fa-fw fa-lg'),
     # ('Twitter', 'https://twitter.com/opcampbell',
     #     'fa fa-twitter-square fa-fw fa-lg'),
     # ('LinkedIn', 'https://www.linkedin.com/in/owencampbell',
