@@ -21,3 +21,9 @@ up defecting against each other on every turn it is called a â€œdefection cycleâ
 This is the worst possible outcome as the pair only receives 2 points overall.
 
 Therefore it is easy to see that a cooperation cycle is desirable.
+
+In his original tournaments Axelrod concluded that nice strategies will normally
+outperform mean strategies. This is because the winner of both tournaments was
+"Tit for Tat" which was a nice strategy. Tit for Tat worked by cooperating on
+the first round and then copying the opponents last decision. It was a very
+simple strategy.
