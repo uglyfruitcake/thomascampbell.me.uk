@@ -28,6 +28,8 @@ SOCIAL = (
     ('Google+', 'https://plus.google.com/u/0/115145418718867457256/posts'),
     ('GitHub', 'http://github.com/uglyfruitcake'))
 
+DISQUS_SITENAME = 'thomascampbell'
+
 DEFAULT_PAGINATION = 10
 
 # Uncomment following line if you want document-relative URLs when developing
