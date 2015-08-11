@@ -131,4 +131,4 @@ other strategy's.
 ## Double-Crosser
 
 <img src="/images/strategies_payoff_no_doublecrosser.png" alt="Strategies
-payoff" style="width: 1000px;"/>
+payoff" style="width: 800px;"/>
