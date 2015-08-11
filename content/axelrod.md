@@ -15,13 +15,6 @@ prisoner's dilemma
 
 I recently started contributing to this project and have found it very
 interesting. The project is open source and so anyone can submit a strategy.
-Once the tournament is run, a boxplot is generated and displayed on the Readme
-of the repository so that everyone can see the winning strategies. As of June
-2015 there were 66 strategies submitted to Axelrod-Python. The boxplot looked
-like this:
-
-<img src="/images/strategies_boxplot_june_2015.png" alt="Strategies boxplot from
-June 2015" style="width: 500px;"/>
 
 ## Nice and Mean Strategies
 
@@ -46,12 +39,20 @@ Therefore it is easy to see that a cooperation cycle is desirable.
 
 ## Meta Hunter and Fool me Once
 
-In June 2015 "Meta Hunter” was the current winning strategy on Axelrod-Python.
-This strategy was one of the more complicated strategies of the tournament. It
-worked by combining various “hunters” that hunted specific mean strategies and
-defected against them. Individually these hunters did not perform particularly
-well. However when combined as “Meta Hunter” it proved to be extremely effective
-and was the winning strategy for quite a while.
+Once the tournament on Axelrod-Python is run, a boxplot is generated and
+displayed on the Readme of the repository so that everyone can see the winning
+strategies. As of June 2015 there were 66 strategies submitted to
+Axelrod-Python. The boxplot looked like this:
+
+<img src="/images/strategies_boxplot_june_2015.png" alt="Strategies boxplot from
+June 2015" style="width: 500px;"/>
+
+As you can see, in June 2015 "Meta Hunter” was the current winning strategy on
+Axelrod-Python. This strategy was one of the more complicated strategies of the
+tournament. It worked by combining various “hunters” that hunted specific mean
+strategies and defected against them. Individually these hunters did not perform
+particularly well. However when combined as “Meta Hunter” it proved to be
+extremely effective and was the winning strategy for quite a while.
 
 The only other strategy that even came close to “Meta Hunter” was “Fool me
 Once”. This strategy was one of the most simple strategies in the tournament. It
