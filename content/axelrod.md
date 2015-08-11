@@ -6,17 +6,18 @@ Author: Thomas Campbell
 ## Axelrod-Python
 
 Axelrod-Python is a repository on Github dedicated to recreating Axelrod’s
-original tournaments in python. The repository can be viewed
-[here](https://github.com/Axelrod-Python/Axelrod).
+original iterated prisoner's dilemma tournaments in python. The repository can
+be viewed [here](https://github.com/Axelrod-Python/Axelrod).
 
-You can read more about Axelrod's original tournament
+You can read more about Axelrod's original tournaments
 [here](http://axelrod.readthedocs.org/en/latest/background.html).
 
-The project is open source and so anyone can submit a strategy. Once the
-tournament is run, a boxplot is generated and displayed on the Readme of the
-repository so that everyone can see the winning strategies. As of June 2015
-there were 66 strategies submitted to Axelrod-Python. The boxplot looked like
-this:
+I recently started contributing to this project and have found it very
+interesting. The project is open source and so anyone can submit a strategy.
+Once the tournament is run, a boxplot is generated and displayed on the Readme
+of the repository so that everyone can see the winning strategies. As of June
+2015 there were 66 strategies submitted to Axelrod-Python. The boxplot looked
+like this:
 
 <img src="/images/strategies_boxplot_june_2015.png" alt="Strategies boxplot from
 June 2015" style="width: 1000px;"/>
