@@ -16,6 +16,11 @@ Prisoner's dilemma is a two player game theory exercise where both players have 
 * If they both defect they will both receive 1 point.
 * If one cooperates and one defects then the defector will receive 5 points and the cooperator will receive 0 points.
 
+$$\begin{pmatrix}
+(1,1) & (5,0)\\
+(0,5) & (3,3)\\
+\end{pmatrix}$$
+
 The aim of the game is to maximise your score over 200 rounds. The only information available to you is your opponent's history so far.
 
 In Axelrod-Python strategies are submitted as python code. Each strategy will

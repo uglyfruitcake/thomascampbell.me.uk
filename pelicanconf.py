@@ -42,6 +42,6 @@ DEFAULT_PAGINATION = 10
 RELATIVE_URLS = True
 
 PLUGIN_PATHS = ('plugins',)
-PLUGINS = ['creole_reader', ]
+PLUGINS = ['creole_reader', 'render_math' ]
 
 THEME = 'themes/voidy-bootstrap/'
