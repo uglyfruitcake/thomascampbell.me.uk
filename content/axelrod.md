@@ -2,7 +2,7 @@ Title: Axelrod Python Strategies
 Date: 2015-08-05
 Slug: axelrod
 Author: Thomas Campbell
-Status: drafts
+Status: Drafts
 
 ## Meta Hunter and Fool me Once
 
