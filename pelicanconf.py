@@ -25,7 +25,7 @@ TRANSLATION_FEED_ATOM = None
 #          ('You can modify those links in your config file', '#'),)
 
 SOCIAL = (
-    # ('Google+', 'http://plus.google.com/+OwenCampbell1',
+    ('Google+', 'https://plus.google.com/u/0/115145418718867457256/posts',
     #     'fa fa-google-plus-square fa-fw fa-lg'),
     # ('Twitter', 'https://twitter.com/opcampbell',
     #     'fa fa-twitter-square fa-fw fa-lg'),
