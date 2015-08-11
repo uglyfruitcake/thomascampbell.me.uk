@@ -1,5 +1,8 @@
-Title: Axelrod Python Strategies Date: 2015-08-05 Tags: python, axelrod Slug:
-axelrod Author: Thomas Campbell Status: draft
+Title: Axelrod Python Strategies
+Date: 2015-08-05
+Slug: axelrod
+Author: Thomas Campbell
+Status: draft
 
 ## Axelrod-Python
 
@@ -119,3 +122,6 @@ The end result was that Backstabber's average score became even higher than any
 other strategy's.
 
 ## Double-Crosser
+
+<img src="/images/strategies_payoff_no_doublecrosser.png" alt="Strategies
+payoff" style="width: 1000px;"/>
