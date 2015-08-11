@@ -25,16 +25,14 @@ TRANSLATION_FEED_ATOM = None
 #          ('You can modify those links in your config file', '#'),)
 
 SOCIAL = (
-    ('Google+', 'https://plus.google.com/u/0/115145418718867457256/posts',
-        'fa fa-google-plus-square fa-fw fa-lg'),
+    ('Google+', 'https://plus.google.com/u/0/115145418718867457256/posts'),
     # ('Twitter', 'https://twitter.com/opcampbell',
     #     'fa fa-twitter-square fa-fw fa-lg'),
     # ('LinkedIn', 'https://www.linkedin.com/in/owencampbell',
     #     'fa fa-linkedin-square fa-fw fa-lg'),
     # ('BitBucket', 'http://bitbucket.org/meatballs',
     #     'fa fa-bitbucket-square fa-fw fa-lg'),
-    ('GitHub', 'http://github.com/uglyfruitcake',
-        'fa fa-github-square fa-fw fa-lg'),)
+    ('GitHub', 'http://github.com/uglyfruitcake')
 
 DEFAULT_PAGINATION = 10
 
