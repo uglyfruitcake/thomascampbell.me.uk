@@ -8,10 +8,9 @@ Author: Thomas Campbell
 I recently started contributing to a project called Axelrod-Python and have
 found it very interesting.
 
-Axelrod-Python is a repository on Github dedicated to recreating Robert
-Axelrod’s original iterated prisoner's dilemma tournaments in python in the
-1980's. The repository can be viewed
-[here](https://github.com/Axelrod-Python/Axelrod).
+Axelrod-Python is a python project dedicated to recreating Robert Axelrod’s
+original iterated prisoner's dilemma tournaments in the 1980's. The Github
+repository can be viewed [here](https://github.com/Axelrod-Python/Axelrod).
 
 Axelrod's original tournament was used to simulate evolution and investigate how
 cooperation can evolve over time. This project aims to reproduce that work. You
