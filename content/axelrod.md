@@ -2,7 +2,6 @@ Title: Axelrod Python Strategies
 Date: 2015-08-05
 Slug: axelrod
 Author: Thomas Campbell
-Status: draft
 
 ## Axelrod-Python
 
