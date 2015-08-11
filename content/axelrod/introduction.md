@@ -30,4 +30,4 @@ prisoner's dilemma
 
 Axelrod-Python is an open source project and so anyone can contribute. If you
 want to contribute, there are instructions on how to on the repository
-[Readme](https://github.com/Axelrod-Python/Axelrod).
+[Readme](https://github.com/Axelrod-Python/Axelrod/blob/master/README.rst).
