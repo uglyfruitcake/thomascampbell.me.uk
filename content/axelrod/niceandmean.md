@@ -1,9 +1,7 @@
-Title: Axelrod Python Strategies
+Title: Nice and Mean Strategies
 Date: 2015-08-11
 Slug: axelrod-nice-and-mean-strategies
 Author: Thomas Campbell
-
-## Nice and Mean Strategies
 
 One way of grouping strategies is be splitting them into “nice” and “mean”
 strategies. Nice strategies will never defect before their opponent has defected

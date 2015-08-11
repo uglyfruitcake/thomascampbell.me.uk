@@ -3,8 +3,6 @@ Date: 2015-08-11
 Slug: axelrod-intro
 Author: Thomas Campbell
 
-## Axelrod-Python
-
 I recently started contributing to a project called Axelrod-Python and have
 found it very interesting.
 
