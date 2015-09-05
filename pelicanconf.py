@@ -26,7 +26,7 @@ TRANSLATION_FEED_ATOM = None
 
 SOCIAL = (
     ('Google+', 'https://plus.google.com/u/0/115145418718867457256/posts'),
-    ('GitHub', 'http://github.com/uglyfruitcake')
+    ('GitHub', 'http://github.com/uglyfruitcake'),
     ('Twitter', 'https://twitter.com/uglyfruitcake'))
 
 DEFAULT_PAGINATION = 10
