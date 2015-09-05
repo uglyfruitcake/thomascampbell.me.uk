@@ -10,11 +10,14 @@ Axelrod-Python is a python project dedicated to recreating Robert Axelrod’s
 original iterated prisoner's dilemma tournaments in the 1980's. The Github
 repository can be viewed [here](https://github.com/Axelrod-Python/Axelrod).
 
-Prisoner's dilemma is a two player game theory exercise where both players have the choice of defecting or cooperating. They do not know what the other player will do.
+Prisoner's dilemma is a two player game theory exercise where both players have
+the choice of defecting or cooperating. They do not know what the other player
+will do.
 
 * If they both cooperate they will both receive 3 points.
 * If they both defect they will both receive 1 point.
-* If one cooperates and one defects then the defector will receive 5 points and the cooperator will receive 0 points.
+* If one cooperates and one defects then the defector will receive 5 points and
+the cooperator will receive 0 points.
 
 It can also be defined by this payoff matrix:
 
@@ -25,7 +28,8 @@ $$
 \end{pmatrix}
 $$
 
-The aim of the game is to maximise your score over 200 rounds. The only information available to you is your opponent's history so far.
+The aim of the game is to maximise your score over 200 rounds. The only
+information available to you is your opponent's history so far.
 
 In Axelrod-Python strategies are submitted as python code. Each strategy will
 play every other in a tournament and the strategy with the highest average score
